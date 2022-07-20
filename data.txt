@@ -1,0 +1,6 @@
+: The main objective of college management system is to automate all functionalities of a 
+college or university. Using this system you can manage all college management work like 
+admission, fees submission, time table management and result declaration. Using this college 
+management system you can view or update data and information about students and staff easily. This 
+system helps in managing the activity like student admission, student registration, fees submission. 
+Admin can also retrieve information of employee student
